@@ -33,6 +33,7 @@ A sovereign agentic infrastructure designed for high-exergy task execution:
 ---
 
 ## 🎹 Moskvlogía (Sonic Archaeology)
+*   **[Forensic Sonic Archive](./SONIC_ARCHIVE.md):** Catálogo completo de 61 lanzamientos extraídos de Bandcamp.
 A biological anthology of sound spanning 2008–2026:
 -   **The Archive:** 1,918 curated tracks representing 6 decades of musical influence.
 -   **Valence:** Operating at the exact threshold of light and shadow (Threshold: 0.498).
